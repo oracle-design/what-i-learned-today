@@ -37,3 +37,7 @@ let nibViewSetPrice = loadFromNibNamed("NibViewSetMoneyOnPriceTag") as! NibViewS
 否則它只會視為UIView。
 
 
+## ref
+http://stackoverflow.com/questions/24370061/assign-xib-to-the-uiview-in-swift
+
+

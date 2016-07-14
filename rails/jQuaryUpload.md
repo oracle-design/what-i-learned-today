@@ -174,7 +174,7 @@ coffee:
 
 ## 6. 把礙眼的進度條弄掉
 
-```sli,
+```slim
 /  app/views/albums/show.html.slim
 
 stop: (e, data) ->
@@ -186,9 +186,10 @@ stop: (e, data) ->
 
 
 ## 7.前端js驗證
-show.html.slim ~ app/views/albums
 
-```
+```coffee
+# app/views/albums/show.html.slim
+
 coffee:
   jQuery ->
     $('#new_photo').fileupload

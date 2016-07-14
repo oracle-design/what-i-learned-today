@@ -253,7 +253,8 @@ class Wuxian.Fileupload
 
 ----------
 
-參考資料:
+
+參考資料:  
 https://github.com/railscasts/381-jquery-file-upload
 https://www.youtube.com/watch?v=x23aIQPa-DY
 https://github.com/tors/jquery-fileupload-rails
